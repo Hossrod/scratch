@@ -1,4 +1,2 @@
-# scratch
-Random place to store misc things I'm playing with.
-
-Test 1
+# Overview
+Random place for me to store misc stuff I'm working on. Use at your own risk.
