@@ -1,6 +1,5 @@
 """
-
-Module provides classes and methods for gettign information about the running Raspberry Pi.
+Module provides classes and methods for getting information about the running Raspberry Pi.
 
 Notes:
   ~ vcgencmd info: http://elinux.org/RPI_vcgencmd_usage
