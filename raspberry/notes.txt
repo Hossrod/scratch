@@ -1,0 +1,16 @@
+Ninja IDE (http://ninja-ide.org)
+  sudo apt-get install ninja-ide
+
+For 7" 800x480 HDMI monitor, add the below to /boot/config.txt
+
+  # Hoss HDMI for 7" display
+  max_usb_current=1
+  hdmi_group=2
+  hdmi_mode=87
+  hdmi_mode=87
+  hdmi_cvt 800 480 60 0 0 0
+  hdmi_drive=1
+
+7" display dimensions
+  Black/screen area = 156mm X 88.5mm
+  Hole centers = 156.7mm X 114.8mm
